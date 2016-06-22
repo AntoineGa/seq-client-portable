@@ -16,8 +16,8 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Serilog.Core;
-using Serilog.Debugging;
 using Serilog.Events;
+using Serilog.Debugging;
 
 namespace Seq.Client.Portable
 {
